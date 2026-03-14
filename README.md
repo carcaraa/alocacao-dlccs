@@ -58,4 +58,18 @@ python nsgaii.py
 
 ## Referências
 
-- Deb, K. et al. *A Fast and Elitist Multiobjective Genetic Algorithm: NSGA-II*. IEEE Transactions on Evolutionary Computation, 2002.
+1. MAHMOUDIAN, A.; NIASATI, M.; KHANESAR, M. A. *Multi objective optimal allocation of fault current limiters in power system*. International Journal of Electrical Power and Energy Systems, v. 85, p. 1–11, 2017.
+
+2. DEB, K.; PRATAP, A.; AGARWAL, S.; MEYARIVAN, T. *A Fast and Elitist Multiobjective Genetic Algorithm: NSGA-II*. IEEE Transactions on Evolutionary Computation, v. 6, n. 2, p. 182–197, 2002.
+
+3. ELMITWALLY, A.; GOUDA, E.; ELADAWY, S. *Optimal allocation of fault current limiters for sustaining overcurrent relays coordination in a power system with distributed generation*. Alexandria Engineering Journal, v. 54, n. 4, p. 1077–1089, 2015.
+
+4. SHAHRIARI, S.; YAZDIAN, A.; HAGHIFAM, M. *Fault current limiter allocation and sizing in distribution system in presence of distributed generation*. IEEE Power and Energy Society General Meeting, 2009, p. 1–6.
+
+5. SCHMITT, H. et al. *Fault Current Limiters — Report on the Activities of CIGRE WG A3.16*. IEEE PES General Meeting, 2006.
+
+6. KHEIROLLAHI, R.; TAHMASEBIFAR, R.; DEHGHANPOUR, E. *Genetic Algorithm Based Optimal Coordination of Overcurrent Relays Using a Novel Objective Function*. International Electrical Engineering Journal (IEEJ), v. 7, n. 10, p. 2403–2414, 2017.
+
+7. REZAEI, N.; UDDIN, M. N.; AMIN, I. K.; OTHMAN, M. L.; MARSADEK, M. *Genetic Algorithm Based Optimization of Overcurrent Relay Coordination for Improved Protection of DFIG Operated Wind Farms*. IEEE Power Systems Protection Conference (PSPC), 2018.
+
+8. CHIPPERFIELD, A. J.; FLEMING, P. J.; FONSECA, C. M. *Genetic Algorithm Tools for Control Systems Engineering*. Proc. International Conference on Adaptive Computing in Engineering Design and Control, Plymouth, UK, 1994.
