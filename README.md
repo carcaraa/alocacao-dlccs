@@ -30,7 +30,7 @@ Sistema IEEE 15 barras, com dados de impedância e topologia definidos no arquiv
 
 ```
 alocacao-dlcs/
-├── code1.py                 # Código principal do algoritmo genético
+├── nsgaii.py                # Código principal do algoritmo genético
 ├── 15BusTestSystems.xlsx    # Dados do sistema elétrico (linhas, impedâncias, base)
 └── README.md
 ```
@@ -47,7 +47,7 @@ alocacao-dlcs/
 
 ```bash
 pip install numpy pandas matplotlib pythonds
-python code1.py
+python nsgaii.py
 ```
 
 ## Saídas
